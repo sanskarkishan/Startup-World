@@ -1,6 +1,6 @@
 import React from "react";
 import { FaFilter } from "react-icons/fa";
-import { ProjectCard } from "../components/projectCard";
+import { ProjectCard } from "../components/ProjectCard";
 
 export const Projects = () => {
   const projects = [
